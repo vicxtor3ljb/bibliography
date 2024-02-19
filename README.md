@@ -1,1 +1,1 @@
-Bibliographies used in the PHD. 
+Bibliography used in the PHD. 
